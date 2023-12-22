@@ -1,6 +1,6 @@
 # 🧛 Phil Stubbings
 
-Nocturnal :bat: life-form based in South Wales :wales:
+Nocturnal 🦇 life-form based in South Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿
 
 # 🖤 Things
 
@@ -13,7 +13,7 @@ Nocturnal :bat: life-form based in South Wales :wales:
 * 🎹 [Spotify](https://open.spotify.com/user/13uygzy0tebw2hgmt4jt3qb6k?si=GiIJzy_0RcOMl__PUKvS3g)
 
 
-# :keyboard: Work
+# ⌨️ Work
 
 I'm a Data Scientst and Software Engineer working in the areas of Artificial Intelligence and Machine Learning. I currently work in the area of [Privacy-enhancing technologies](https://en.wikipedia.org/wiki/Privacy-enhancing_technologies). I'm also interested in [market-microstructure](https://en.wikipedia.org/wiki/Market_microstructure), algorithmic trading and extracting signals from obscure data-sources. CV on [LinkedIn](https://www.linkedin.com/in/sphil/)
 
