@@ -24,7 +24,7 @@ I'm a Data Scientst and Software Engineer working in the areas of Artificial Int
 ## 🏢 Places
 
 * [Wunderman Thompson MAP](https://wt-map.com/) Staff Data Scientist (current)
-* [Harvard University OpenDP](https://opendp.org/people/philip-stubbings) Visiting Fellow
+* [Harvard University](https://opendp.org/people/philip-stubbings) OpenDP Visiting Fellow
 * [LiveRamp](https://liveramp.com/) Staff Data Scientist
 * [DataFleets](https://techcrunch.com/2021/02/09/encrypted-data-handling-startup-datafleets-acquired-by-liveramp-for-over-68m/) Research Software Engineer (acquired by LiveRamp)
 * [Office for National Statistics](https://datasciencecampus.ons.gov.uk/) Lead Data Scientist
