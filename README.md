@@ -17,7 +17,7 @@ Nocturnal 🦇 life-form based in South Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿
 
 # ⌨️ Work
 
-I'm a Data Scientst and Software Engineer working in the areas of Artificial Intelligence and Machine Learning. I currently work in the area of [Privacy-enhancing technologies](https://en.wikipedia.org/wiki/Privacy-enhancing_technologies). I'm also interested in [market-microstructure](https://en.wikipedia.org/wiki/Market_microstructure), algorithmic trading and extracting signals from obscure data-sources. CV on [LinkedIn](https://www.linkedin.com/in/sphil/)
+I'm a Data Scientist and Software Engineer working in the areas of Artificial Intelligence and Machine Learning. I currently work in the area of [Privacy-enhancing technologies](https://en.wikipedia.org/wiki/Privacy-enhancing_technologies). I'm also interested in [market-microstructure](https://en.wikipedia.org/wiki/Market_microstructure), algorithmic trading and extracting signals from obscure data-sources. CV on [LinkedIn](https://www.linkedin.com/in/sphil/)
 
 ![me saying random things](1.jpg "me saying random things")
 
