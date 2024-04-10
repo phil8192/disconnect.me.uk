@@ -1,7 +1,5 @@
 # 🧛 Phil Stubbings
 
-Nocturnal 🦇 life-form based in South Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿
-
 ![oh no](lostinrain.gif "oh no")
 
 # 🖤 Things
