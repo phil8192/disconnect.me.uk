@@ -1,6 +1,6 @@
 # 👋 Phil Stubbings
 
-![oh no](output.gif "phil stubbings")
+![phil stubbings](output.gif "phil stubbings")
 
 # 🖤 Things
 
@@ -13,23 +13,23 @@
 
 # ⌨️ Work
 
-I'm a Data Scientist and Software Engineer working in the areas of Artificial Intelligence and Machine Learning. <strike>I currently work in the area of [Privacy-enhancing technologies](https://en.wikipedia.org/wiki/Privacy-enhancing_technologies).</strike> I'm also interested in [market-microstructure](https://en.wikipedia.org/wiki/Market_microstructure), algorithmic trading and extracting signals from obscure data-sources. CV on [LinkedIn](https://www.linkedin.com/in/sphil/)
+I'm a Data Scientist and Software Engineer working in the areas of Artificial Intelligence and Machine Learning. <strike>I currently work in the area of [Privacy-enhancing technologies](https://en.wikipedia.org/wiki/Privacy-enhancing_technologies).</strike> I like to work at the intersection of Software Engineering and Research, developing systems to solve complex and novel problems. CV on [LinkedIn](https://www.linkedin.com/in/sphil/)
 
-![me saying random things](1.jpg "phil stubbings")
+![phil stubbings](1.jpg "phil stubbings")
 
 ## 🏢 Places
 
 * Current - Personal endeavours <3
-* [Evogro](https://www.evogro.com/) Staff Software Engineer
-* [Wunderman Thompson MAP](https://wt-map.com/) Staff Data Scientist
-* [Harvard University](https://opendp.org/people/philip-stubbings) OpenDP Visiting Fellow
-* [LiveRamp](https://liveramp.com/) Staff Data Scientist
-* [DataFleets](https://techcrunch.com/2021/02/09/encrypted-data-handling-startup-datafleets-acquired-by-liveramp-for-over-68m/) Research Software Engineer (acquired by LiveRamp)
-* [Office for National Statistics](https://datasciencecampus.ons.gov.uk/) Lead Data Scientist
-* [Evogro](https://www.evogro.com/) Machine Learning Software Engineer
-* [Arkasoft](http://www.arkasoft.com/) Principal Software Engineer
-* [Velti](https://www.velti.ai/) Senior Software Engineer
-* [British Telecom](https://atadastral.co.uk/) Research Scientist
+* [Evogro](https://www.evogro.com/) Staff Software Engineer -- Edge computing/IoT.
+* [Wunderman Thompson MAP](https://wt-map.com/) Staff Data Scientist -- Data privacy and privacy preserving analytics.
+* [Harvard University](https://opendp.org/people/philip-stubbings) OpenDP Visiting Fellow -- Distributed training of neural networks with differential privacy.
+* [LiveRamp](https://liveramp.com/) Staff Data Scientist -- Acquired DataFleets; Privacy preserving data analytics.
+* [DataFleets](https://techcrunch.com/2021/02/09/encrypted-data-handling-startup-datafleets-acquired-by-liveramp-for-over-68m/) Research Software Engineer -- Data Privacy Startup; Algorithms for privacy-preserving machine learning.
+* [Office for National Statistics](https://datasciencecampus.ons.gov.uk/) Lead Data Scientist -- .gov; Computer vision, optimisation, building novel economic indicators.
+* [Evogro](https://www.evogro.com/) Machine Learning Software Engineer -- AgriTech Startup; Computer vision and optimisation algorithms.
+* [Arkasoft](http://www.arkasoft.com/) Principal Software Engineer -- Cloud computing; Industrial optimisation, research and development.
+* [Velti](https://www.velti.ai/) Senior Software Engineer -- Distributed computing; High-throughput and scalable messaging systems.
+* [British Telecom](https://atadastral.co.uk/) Research Scientist -- Operations Research; Supply chain optimisation, workforce scheduling and optimisation.
 
 ## 👨‍🎓 Academics
 
@@ -51,3 +51,7 @@ Google Scholar [profile](https://scholar.google.co.uk/citations?user=kg1_CuEAAAA
 * [Differentially private split vertical learning](https://patents.google.com/patent/WO2023081183A1/en)
 * [Data analytics privacy platform with quantified re-identification risk](https://patents.google.com/patent/WO2022061162A1/en)
 * [Analytics platform for federated private data](https://patents.google.com/patent/WO2022061165A1/en)
+
+## 🤝 Contact
+
+* phil`<2*13>`@gmail.com
