@@ -19,7 +19,7 @@ I'm a Data Scientist and Software Engineer working in the areas of Artificial In
 
 ## 🏢 Places
 
-* Current - Personal endeavours :space_invader:
+* Current - Personal endeavours <3
 * [Evogro](https://www.evogro.com/) Staff Software Engineer
 * [Wunderman Thompson MAP](https://wt-map.com/) Staff Data Scientist
 * [Harvard University](https://opendp.org/people/philip-stubbings) OpenDP Visiting Fellow
