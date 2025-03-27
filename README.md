@@ -1,4 +1,4 @@
-# 🧛 Phil Stubbings
+# 👋 Phil Stubbings
 
 ![oh no](output.gif "phil stubbings")
 
