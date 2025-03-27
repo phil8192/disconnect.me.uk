@@ -13,7 +13,7 @@
 
 # ⌨️ Work
 
-I'm a Data Scientist and Software Engineer working in the areas of Artificial Intelligence and Machine Learning. <strike>I currently work in the area of [Privacy-enhancing technologies](https://en.wikipedia.org/wiki/Privacy-enhancing_technologies).</strike> I like to work at the intersection of Software Engineering and Research, developing systems to solve complex and novel problems. CV on [LinkedIn](https://www.linkedin.com/in/sphil/)
+I'm a Data Scientist and Software Engineer working in the areas of Artificial Intelligence and Machine Learning. <strike>I currently work in the area of [Privacy-enhancing technologies](https://en.wikipedia.org/wiki/Privacy-enhancing_technologies).</strike> I like to work at the intersection of Software Engineering and Research, building systems to solve complex and novel problems. CV on [LinkedIn](https://www.linkedin.com/in/sphil/)
 
 ![phil stubbings](1.jpg "phil stubbings")
 
