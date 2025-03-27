@@ -1,6 +1,6 @@
 # 🧛 Phil Stubbings
 
-![oh no](lostinrain.gif "oh no")
+![oh no](self.gif "oh no")
 
 # 🖤 Things
 
