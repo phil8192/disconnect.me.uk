@@ -54,4 +54,4 @@ Google Scholar [profile](https://scholar.google.co.uk/citations?user=kg1_CuEAAAA
 
 ## 🤝 Contact
 
-* phil $2^13$ @gmail.com
+* phil`<2**13>`@gmail.com
