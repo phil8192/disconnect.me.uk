@@ -8,7 +8,7 @@
 * 🖋️ Random [Blogging](https://parasec.net/blog/)
 * 💻 Coding [Github](https://github.com/phil8192)
 * 🥉 [Kaggle](https://www.kaggle.com/edgecrusher)
-* 🐦 <strike>[Twitter](https://twitter.com/vectorinversion)</strike>
+* 🐦 [Twitter](https://twitter.com/vectorinversion)
 
 
 # ⌨️ Work
