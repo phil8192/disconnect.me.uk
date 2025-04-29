@@ -20,10 +20,8 @@ I'm a Data Scientist and Software Engineer working in the areas of Artificial In
 ## 🏢 Places
 
 * Current - Personal endeavours <3
-* [Evogro](https://www.evogro.com/) Staff Software Engineer -- Edge computing/IoT.
-* [Wunderman Thompson MAP](https://wt-map.com/) Staff Data Scientist -- Data privacy and privacy preserving analytics.
-* [Harvard University](https://opendp.org/people/philip-stubbings) OpenDP Visiting Fellow -- Distributed training of neural networks with differential privacy.
 * [LiveRamp](https://liveramp.com/) Staff Data Scientist -- Acquired DataFleets; Privacy preserving data analytics.
+* [Harvard University](https://opendp.org/people/philip-stubbings) OpenDP Visiting Fellow -- Distributed training of neural networks with differential privacy.
 * [DataFleets](https://techcrunch.com/2021/02/09/encrypted-data-handling-startup-datafleets-acquired-by-liveramp-for-over-68m/) Research Software Engineer -- Data Privacy Startup; Algorithms for privacy-preserving machine learning.
 * [Office for National Statistics](https://datasciencecampus.ons.gov.uk/) Lead Data Scientist -- .gov; Computer vision, optimisation, building novel economic indicators.
 * [Evogro](https://www.evogro.com/) Machine Learning Software Engineer -- AgriTech Startup; Computer vision and optimisation algorithms.
